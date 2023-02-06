@@ -20,7 +20,7 @@ flowchart LR
 
 1. download `bin/MermaidPlugin-1.0.jar` into `${JSPWIKI_HOME}/WEB-INF/lib/`
 ```shell
-wget "https://github.com/pmamico/jspwiki-mermaid/blob/master/bin/MermaidPluginPlugin-1.0.jar?raw=true"
+wget "https://github.com/pmamico/jspwiki-mermaid/blob/master/bin/MermaidPlugin-1.0.jar?raw=true"
 ```
 2. in `${JSPWIKI_HOME}/WEB-INF/jspwiki-custom.properties` file, edit the comma-delimited ``jspwiki.plugin.searchPath`` property to include the package designation of the plugin
 ```properties
