@@ -8,9 +8,9 @@
 	<artifactId>MermaidPlugin</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0</version>
-    <name>MermaidPlugin</name>
+    	<name>MermaidPlugin</name>
 	<scm>
-		<!--developerConnection>scm:git:https://github.com/pmamico/jspwiki-plantuml.git</developerConnection-->
+		<developerConnection>scm:git:https://github.com/pmamico/jspwiki-mermaid.git</developerConnection>
 	</scm>
 	<dependencies>
 		<dependency>
